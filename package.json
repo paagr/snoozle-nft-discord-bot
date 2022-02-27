@@ -2,9 +2,9 @@
   "name": "snoozle-nft-discord-bot",
   "version": "1.0.0",
   "description": "SnoozleStudio NFT Discord bot",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
