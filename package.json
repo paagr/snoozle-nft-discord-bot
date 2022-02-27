@@ -1,0 +1,27 @@
+{
+  "name": "snoozle-nft-discord-bot",
+  "version": "1.0.0",
+  "description": "SnoozleStudio NFT Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paagr/snoozle-nft-discord-bot.git"
+  },
+  "author": "paagr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paagr/snoozle-nft-discord-bot/issues"
+  },
+  "homepage": "https://github.com/paagr/snoozle-nft-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
